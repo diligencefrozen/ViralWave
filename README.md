@@ -1,3 +1,8 @@
+**Project Title: The Spread of Controversial Content and User Response Analysis**
+
+**Brief Description:**
+This study investigates how provocative and polarizing content spreads across short-form video platforms such as YouTube Shorts, Instagram Reels, and TikTok. By analyzing user engagement metrics and comment data, the research aims to uncover patterns in content dissemination and algorithmic amplification of controversial topics.
+
 **Project Overview**
 
 This study aims to analyze the dissemination mechanisms of provocative and polarizing content that garners significant attention within online communities. The research focuses on short-form video platforms such as YouTube Shorts, Instagram Reels, and TikTok, examining how these types of content influence user engagement and reactions across different platforms.
@@ -21,3 +26,4 @@ This study aims to analyze the dissemination mechanisms of provocative and polar
 **Expected Outcomes**
 
 This study aims to systematically examine the process by which controversial content spreads across social media platforms, offering insights into platform-specific content consumption behaviors. By leveraging comment data, the research will also contribute to understanding emotional reactions and public discourse formation within online communities. The findings are expected to provide meaningful implications for future content strategies and algorithm research in the realm of social media.
+
