@@ -6,10 +6,10 @@ Inspired by strategies employed by dominant social groups, the Viral Wave Projec
 
 ### Objectives
 - Understand the mechanics behind controversial or provocative content going viral through data analytics.
-- Analyze cross-platform user reactions to strategically crafted provocative content.
+- Analyze cross platform user reactions to strategically crafted provocative content.
 - Develop insights into leveraging controversial content effectively across different platforms to maximize reach and engagement.
 
 ### Expected Outcomes
 - Enhanced understanding of viral mechanics associated with provocative content.
-- Clear identification of platform-specific audience behavior patterns in response to controversial content.
-- Establishment of data-driven tactics to effectively manage and leverage audience reactions for maximum virality.
+- Clear identification of platform specific audience behavior patterns in response to controversial content.
+- Establishment of data driven tactics to effectively manage and leverage audience reactions for maximum virality.
