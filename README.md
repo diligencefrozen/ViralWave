@@ -1,15 +1,23 @@
-### Project Name
-**“Viral Wave Project”**
+**Project Overview**
 
-### Project Description
-Inspired by strategies employed by dominant social groups, the Viral Wave Project focuses on periodically uploading provocative or controversial short-form content to drive rapid engagement on platforms such as YouTube Shorts, Instagram Reels, and TikTok. Initially, controversial content will be regularly uploaded to YouTube Shorts to generate strong user reactions and high view counts. Once a successful content strategy is identified, the same type of content will be replicated across Instagram Reels and TikTok, allowing for comprehensive analysis and comparison of audience responses across these major social media platforms.
+This study aims to analyze the dissemination mechanisms of provocative and polarizing content that garners significant attention within online communities. The research focuses on short-form video platforms such as YouTube Shorts, Instagram Reels, and TikTok, examining how these types of content influence user engagement and reactions across different platforms.
 
-### Objectives
-- Understand the mechanics behind controversial or provocative content going viral through data analytics.
-- Analyze cross platform user reactions to strategically crafted provocative content.
-- Develop insights into leveraging controversial content effectively across different platforms to maximize reach and engagement.
+**Research Objectives**
 
-### Expected Outcomes
-- Enhanced understanding of viral mechanics associated with provocative content.
-- Clear identification of platform specific audience behavior patterns in response to controversial content.
-- Establishment of data driven tactics to effectively manage and leverage audience reactions for maximum virality.
+- Analyze the spread patterns of provocative and polarizing content across different platforms.
+- Compare user engagement and interaction levels on YouTube Shorts, Instagram Reels, and TikTok.
+- Collect and analyze comment data to identify qualitative and quantitative aspects of user reactions.
+- Investigate how platform algorithms recommend and amplify controversial content.
+
+**Research Methodology**
+
+1. **Content Deployment**: Regularly upload the same type of provocative and polarizing content across three platforms (YouTube Shorts, Instagram Reels, TikTok).
+2. **Data Collection**: Gather quantitative metrics such as views, likes, and shares, along with textual comment data from each platform.
+3. **Data Analysis**:
+   - Quantitative Analysis: Compare reach, engagement rate, and diffusion speed across platforms.
+   - Qualitative Analysis: Utilize natural language processing techniques to conduct sentiment analysis and topic modeling on comment data.
+4. **Comparative and Comprehensive Analysis**: Identify differences in user reactions across platforms and derive insights into how provocative content spreads within social media ecosystems.
+
+**Expected Outcomes**
+
+This study aims to systematically examine the process by which controversial content spreads across social media platforms, offering insights into platform-specific content consumption behaviors. By leveraging comment data, the research will also contribute to understanding emotional reactions and public discourse formation within online communities. The findings are expected to provide meaningful implications for future content strategies and algorithm research in the realm of social media.
